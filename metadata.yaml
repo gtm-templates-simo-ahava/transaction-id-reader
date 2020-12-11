@@ -1,4 +1,5 @@
 homepage: "https://www.simoahava.com/"
+documentation: "https://www.simoahava.com/custom-templates/transaction-id-reader/"
 versions:
   # Latest version
   - sha: cacf15f2c8e382164507dae9650101f1b5f1995c
